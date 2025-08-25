@@ -1,3 +1,2 @@
 This is file 1 
-Johan like bakso
-Johan Changed in feature-1
+Johan
